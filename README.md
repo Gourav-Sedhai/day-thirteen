@@ -1,2 +1,3 @@
 # day-thirteen
-A new bright day
+A new bright day.
+New things to learn.
