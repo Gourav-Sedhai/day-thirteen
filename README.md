@@ -3,5 +3,9 @@ A new bright day.
 New things to learn.
 A new day, a new journey.
 Python Arguments example.
-kargs*
+**kwargs
 
+def mean(**kwargs):
+    return kwargs
+
+print(mean(a=1, b=2, c=3, d=4))
