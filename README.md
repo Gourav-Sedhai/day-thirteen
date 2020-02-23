@@ -1,4 +1,4 @@
 # day-thirteen
 A new bright day.
 New things to learn.
-A new day, 
+A new day, a new journey.
